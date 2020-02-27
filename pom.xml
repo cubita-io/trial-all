@@ -19,6 +19,11 @@
         <module>trial-spring-security</module>
         <module>trial-spring-session</module>
         <module>trial-spring</module>
+        <module>trial-springboot-web</module>
+        <module>trial-spring-crypto</module>
+        <module>trial-commons</module>
+        <module>trial-helidon</module>
+        <module>trial-helidon-config</module>
     </modules>
 
 
